@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Welcome to Havalaa Technologies
+# Welcome to Havalaa Technologies
 <!--
 
 **Here are some ideas to get you started:**
